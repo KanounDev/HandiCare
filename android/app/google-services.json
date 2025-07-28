@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "61354191440",
+    "project_id": "handicare-9df75",
+    "storage_bucket": "handicare-9df75.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61354191440:android:1a787223c4355a02d97f55",
+        "android_client_info": {
+          "package_name": "com.example.projet_pacte"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-F-nq5r--UT3gpYDeu8gFG69lt00ZPh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
